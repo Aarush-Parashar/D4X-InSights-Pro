@@ -13,15 +13,15 @@ An intelligent Flutter app that allows users to upload `.csv` files and perform 
 
 ## 🔁 Workflow
 
-1.Login/Signup
-2.Description Page (for first-time users)
-3.Upload CSV
+1.Login/Signup.
+2.Description Page (for first-time usrs).
+3.Upload CSV.
 4.Choose one:
-  Predict
-  Visualize
-  Forecast
-5.Choose AI-assisted or Manual
-6.Get results via charts or predictions
+  Predict,
+  Visualize,
+  Forecast,
+5.Choose AI-assisted or Manual.
+6.Get results via charts or predictions.
 
 
 ## ⚙️ Manual Mode Options
